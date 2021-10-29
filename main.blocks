@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <variables></variables>
-  <block type="pxt-on-start" x="0" y="0"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="w*z/9d|bKAd!W|:lrE?M">iswowowpro</variable></variables><block type="pxt-on-start" id="-PcM-^h?u.Em%5g3Ys7L" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="`oAk,s{9/o8ZSI+O1ryP"><field name="VAR" id="w*z/9d|bKAd!W|:lrE?M">iswowowpro</field><value name="VALUE"><shadow type="math_number" id="x_75OSyCJg{!*v+NT9)r"><field name="NUM">1</field></shadow></value></block></statement></block></xml>
